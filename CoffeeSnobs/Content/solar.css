@@ -35,6 +35,11 @@ section,
 summary {
   display: block;
 }
+
+footer {
+    text-align: center;
+}
+
 audio,
 canvas,
 progress,

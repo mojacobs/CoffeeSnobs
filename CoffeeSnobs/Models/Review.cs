@@ -12,6 +12,7 @@ namespace CoffeeSnobs.Models
         [DisplayName("Review")]
         public virtual int ReviewId { get; set; }
 
+        //REGEX for date: ^((0[13-9]|1[0-2])\/(0[1-9]|[12]\d|3[01])\/(19|20)\d{2})|(02\/(0[1-9]|1\d|2[0-8]))$
         [DisplayName("Date Visited:")]
         [Required(ErrorMessage = "Need to specify a date.")]
         public virtual string Date { get; set; }
