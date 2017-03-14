@@ -1,0 +1,164 @@
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\ApplicationInsights.config
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\roslyn\csc.exe
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\roslyn\System.Collections.Immutable.dll
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\roslyn\vbc.exe
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\roslyn\VBCSCompiler.exe
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\roslyn\VBCSCompiler.exe.config
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\CoffeeSnobs.dll.config
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\CoffeeSnobs.dll
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\CoffeeSnobs.pdb
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\Antlr3.Runtime.dll
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\EntityFramework.dll
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\EntityFramework.SqlServer.dll
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.AI.Web.dll
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.AI.WindowsServer.dll
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.ApplicationInsights.dll
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.Owin.dll
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.Owin.Security.dll
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.Owin.Security.Google.dll
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.Web.Infrastructure.dll
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\Newtonsoft.Json.dll
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\Owin.dll
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\System.Web.Helpers.dll
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\System.Web.Mvc.dll
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\System.Web.Optimization.dll
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\System.Web.Razor.dll
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\System.Web.WebPages.Deployment.dll
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\System.Web.WebPages.dll
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\System.Web.WebPages.Razor.dll
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\WebGrease.dll
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.AI.Web.xml
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.AI.WindowsServer.xml
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.ApplicationInsights.xml
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\System.Web.Helpers.xml
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\System.Web.Mvc.xml
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\System.Web.Optimization.xml
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\System.Web.Razor.xml
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\System.Web.WebPages.xml
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\System.Web.WebPages.Deployment.xml
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\System.Web.WebPages.Razor.xml
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\Antlr3.Runtime.pdb
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\Newtonsoft.Json.xml
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\EntityFramework.xml
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\EntityFramework.SqlServer.xml
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.Owin.xml
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.Owin.Security.xml
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.Owin.Security.Google.xml
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\obj\Debug\CoffeeSnobs.csprojResolveAssemblyReference.cache
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\obj\Debug\CoffeeSnobs.dll
+c:\users\monique\documents\visual studio 2015\Projects\CoffeeSnobs\CoffeeSnobs\obj\Debug\CoffeeSnobs.pdb
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\roslyn\VBCSCompiler.exe
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\ApplicationInsights.config
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\roslyn\csc.exe
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\roslyn\vbc.exe
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\CoffeeSnobs.dll.config
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\CoffeeSnobs.dll
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\CoffeeSnobs.pdb
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\Antlr3.Runtime.dll
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\EntityFramework.dll
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\EntityFramework.SqlServer.dll
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.AI.Web.dll
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.Owin.dll
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.Owin.Security.dll
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\Newtonsoft.Json.dll
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\Owin.dll
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\System.Web.Helpers.dll
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\System.Web.Mvc.dll
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\System.Web.Optimization.dll
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\System.Web.Razor.dll
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\System.Web.WebPages.dll
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\System.Web.WebPages.Razor.dll
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\WebGrease.dll
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.AI.Web.xml
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\System.Web.Helpers.xml
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\System.Web.Mvc.xml
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\System.Web.Optimization.xml
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\System.Web.Razor.xml
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\System.Web.WebPages.xml
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\System.Web.WebPages.Razor.xml
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\Antlr3.Runtime.pdb
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\Newtonsoft.Json.xml
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\EntityFramework.xml
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\EntityFramework.SqlServer.xml
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.Owin.xml
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.Owin.Security.xml
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\obj\Debug\CoffeeSnobs.dll
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\obj\Debug\CoffeeSnobs.pdb
+C:\Users\Monique\GitHub\FINAL\CoffeeSnobs\CoffeeSnobs\obj\Debug\CoffeeSnobs.csprojResolveAssemblyReference.cache
