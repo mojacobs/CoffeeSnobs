@@ -101,7 +101,7 @@ namespace CoffeeSnobs.Controllers
             {
                 db.Entry(review).State = EntityState.Modified;
                 db.SaveChanges();
-                return RedirectToAction("Index");
+                return RedirectToAction("MyReviews");
             }
             return View(review);
         }
@@ -129,7 +129,7 @@ namespace CoffeeSnobs.Controllers
             Review review = db.Reviews.Find(id);
             db.Reviews.Remove(review);
             db.SaveChanges();
-            return RedirectToAction("Index");
+            return RedirectToAction("MyReviews");
         }
 
         // AJAX-GET: Ride/CityFill?term=value
